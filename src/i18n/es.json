@@ -1,0 +1,46 @@
+{
+    "Type a message...": "Escribe un mensaje..."
+    ,"Send": "Enviar"
+    ,"Welcome": "Bienvenido"
+    ,"Settings": "Configuración"
+    ,"Run Test": "Ejecutar Prueba"
+    ,"Chatbot": "Chatbot"
+    ,"State Data": "Datos de Estado"
+    ,"Tabs": {
+      "FOR_YOU": "Sugerencias"
+      ,"SHOPPING_LIST": "Lista de compras"
+      ,"CART": "Carrito"
+      ,"PANTRY": "Despensa"
+      ,"RECIPES": "Recetas"
+      ,"MEAL_PLANS": "Planes de comidas"
+      ,"ABOUT_ME": "Sobre mí"
+      ,"SELECT_A_TAB": "Seleccione una pestaña"
+    }
+    ,"category": {
+      "uncategorized": "Sin categoría"
+      ,"adAlt": "{{categoryName}} Anuncio"
+    }
+    ,"common": {
+      "brandLabel": "Marca"
+      ,"quantityLabel": "Cantidad"
+      ,"sizeLabel": "Tamaño"
+      ,"measurementLabel": "Medición"
+      ,"preparationLabel": "Preparación"
+      ,"priceLabel": "Precio"
+      ,"currency": "${{val}}"
+    },
+    "listItem": {
+      "skuTitle": "Productos Relacionados"
+      ,"adAlt": "{{productName}} Anuncio"
+    }
+    ,"listSummary": {
+      "totalPrice": "Precio Total"
+      ,"budget": "Presupuesto"
+      ,"menuDetails": "Detalles"
+      ,"menuShopSwap": "Comprar / Cambiar"
+      ,"menuRemove": "Eliminar Artículo"
+    }
+    ,"product": {
+      "adAlt": "{{productName}} Anuncio"
+    }
+  }

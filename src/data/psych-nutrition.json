@@ -1,0 +1,129 @@
+{
+    "nutritional_or_dietary_restrictions": [
+      {
+        "id": "vegetarian-diet",
+        "name": "Vegetarian Diet",
+        "description": "Diet excluding meat and fish, focusing on plant-based foods."
+      },
+      {
+        "id": "vegan-diet",
+        "name": "Vegan Diet",
+        "description": "Diet excluding all animal products, including dairy and eggs."
+      },
+      {
+        "id": "gluten-free-diet",
+        "name": "Gluten-Free Diet",
+        "description": "Avoiding gluten found in wheat, barley, and rye due to intolerance or celiac disease."
+      },
+      {
+        "id": "lactose-intolerance",
+        "name": "Lactose Intolerance",
+        "description": "Difficulty digesting lactose in dairy products."
+      },
+      {
+        "id": "nut-allergies",
+        "name": "Nut Allergies",
+        "description": "Allergic reactions to tree nuts or peanuts."
+      },
+      {
+        "id": "shellfish-allergies",
+        "name": "Shellfish Allergies",
+        "description": "Allergic reactions to crustaceans and mollusks."
+      },
+      {
+        "id": "kosher-dietary-laws",
+        "name": "Kosher Dietary Laws",
+        "description": "Dietary practices adhering to Jewish dietary laws."
+      },
+      {
+        "id": "halal-dietary-guidelines",
+        "name": "Halal Dietary Guidelines",
+        "description": "Dietary practices adhering to Islamic law."
+      },
+      {
+        "id": "diabetic-friendly-diet",
+        "name": "Diabetic-Friendly Diet",
+        "description": "Managing blood sugar levels through diet."
+      },
+      {
+        "id": "low-carbohydrate-diet",
+        "name": "Low-Carbohydrate Diet",
+        "description": "Reducing carbohydrate intake to promote weight loss or control blood sugar."
+      },
+      {
+        "id": "low-sodium-diet",
+        "name": "Low-Sodium Diet",
+        "description": "Limiting sodium intake to manage blood pressure."
+      },
+      {
+        "id": "low-fat-diet",
+        "name": "Low-Fat Diet",
+        "description": "Reducing fat intake for health reasons."
+      },
+      {
+        "id": "paleo-diet",
+        "name": "Paleo Diet",
+        "description": "Eating foods presumed to have been available to Paleolithic humans."
+      },
+      {
+        "id": "ketogenic-keto-diet",
+        "name": "Ketogenic (Keto) Diet",
+        "description": "High-fat, low-carb diet to induce ketosis."
+      },
+      {
+        "id": "pescatarian-diet",
+        "name": "Pescatarian Diet",
+        "description": "Vegetarian diet that includes fish and seafood."
+      },
+      {
+        "id": "food-allergies",
+        "name": "Food Allergies",
+        "description": "Allergic reactions to specific foods like eggs, soy, or wheat."
+      },
+      {
+        "id": "high-protein-diet",
+        "name": "High-Protein Diet",
+        "description": "Increasing protein intake for muscle building or weight management."
+      },
+      {
+        "id": "organic-food-preference",
+        "name": "Organic Food Preference",
+        "description": "Choosing foods produced without synthetic pesticides or fertilizers."
+      },
+      {
+        "id": "non-gmo-food-preference",
+        "name": "Non-GMO Food Preference",
+        "description": "Avoiding genetically modified organisms in food."
+      },
+      {
+        "id": "low-fodmap-diet",
+        "name": "Low FODMAP Diet",
+        "description": "Diet low in certain carbohydrates to manage IBS symptoms."
+      },
+      {
+        "id": "sugar-free-diet",
+        "name": "Sugar-Free Diet",
+        "description": "Eliminating added sugars for health reasons."
+      },
+      {
+        "id": "high-fiber-diet",
+        "name": "High-Fiber Diet",
+        "description": "Increasing fiber intake for digestive health."
+      },
+      {
+        "id": "raw-food-diet",
+        "name": "Raw Food Diet",
+        "description": "Consuming uncooked, unprocessed foods."
+      },
+      {
+        "id": "intermittent-fasting",
+        "name": "Intermittent Fasting",
+        "description": "Alternating cycles of fasting and eating."
+      },
+      {
+        "id": "pregnancy-related-dietary-restrictions",
+        "name": "Pregnancy-Related Dietary Restrictions",
+        "description": "Avoiding certain foods for prenatal health."
+      }
+    ]
+  }

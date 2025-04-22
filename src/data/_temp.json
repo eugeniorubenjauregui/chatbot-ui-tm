@@ -1,0 +1,134 @@
+[
+{
+    "brand": "Brightway",
+    "catalogCategory": "Apples",
+    "catalogContext": "/Home/Produce/Fruits/Apples/Gala Apples 2lb",
+    "catalogContextDetail": "",
+    "description": "description",
+    "geography": "",
+    "name": "Gala Apples 2lb",
+    "nutritionInfo": "",
+    "onPageRecommendations": "",
+    "pageType": "productDetailPage",
+    "pageUrl": "http://localhost:4001/",
+    "price": 8.99,
+    "retailerId": "123451",
+    "retailerName": "Kroger",
+    "sourceUrl": "sampleSource",
+    "storeId": "Kroger 1278 Dallas",
+    "storeLocation": "123 Denton Park Dr, Dallas, TX 75012",
+    "timestamp": "2024-12-27T06:30:45.410Z",
+    "userId": "james@smithfam.com"
+},
+{
+    "source": "OpenAI 4o",
+    "recommendedActions": 
+    [
+        {
+            "actionId": "FindRecipesWithGalaApples",
+            "actionName": "5 New Recipes You Can Make with Gala Apples",
+            "shortActionDescription": "Explore healthy recipes using Gala Apples and other items from your shopping list."
+        },
+        {
+            "actionId": "LowerPricedOptionsForGalaApples",
+            "actionName": "Lower-Priced Options for Gala Apples",
+            "shortActionDescription": "Discover more affordable alternatives to Gala Apples that fit your budget."
+        },
+        {
+            "actionId": "HealthSensitiveOptionsForGalaApples",
+            "actionName": "Health-Sensitive Options for Gala Apples",
+            "shortActionDescription": "Find options for Gala Apples that align with your low-fat and vegetarian preferences."
+        },
+        {
+            "actionId": "SummarizeReviewsForGalaApples",
+            "actionName": "Summarize Reviews of Gala Apples",
+            "shortActionDescription": "Read customer reviews to learn more about the quality and taste of Gala Apples."
+        },
+        {
+            "actionId": "AskQuestionsAboutGalaApples",
+            "actionName": "Ask Questions About Gala Apples",
+            "shortActionDescription": "Inquire about the sourcing, quality, or nutritional information of Gala Apples."
+        }
+    ]
+},
+{
+    "source": "groq-llama3-70b-8192",
+    "recommendedActions": [
+        {
+            "actionId": "ketoFriendlyRecipes",
+            "actionName": "Keto-Friendly Recipes",
+            "shortActionDescription": "Discover 5 keto-friendly recipes using Bertoli Olive Oil and other ingredients from your shopping list."
+        },
+        {
+            "actionId": "lowFatOliveOilOptions",
+            "actionName": "Low-Fat Olive Oil Options",
+            "shortActionDescription": "Explore lower-fat olive oil options that fit your low-fat preference and budget."
+        },
+        {
+            "actionId": "glutenFreeRecipeSuggestions",
+            "actionName": "Gluten-Free Recipe Suggestions",
+            "shortActionDescription": "Get 5 gluten-free recipe ideas using Bertoli Olive Oil and other gluten-free ingredients from your shopping list."
+        },
+        {
+            "actionId": "pairingSuggestions",
+            "actionName": "Pairing Suggestions",
+            "shortActionDescription": "Find perfect pairing suggestions for Bertoli Olive Oil with your other shopping list ingredients."
+        },
+        {
+            "actionId": "nutritionInfo",
+            "actionName": "Nutrition Information",
+            "shortActionDescription": "View detailed nutrition information for Bertoli Olive Oil and other products in your shopping list."
+        },
+        {
+            "actionId": "askQuestion",
+            "actionName": "Ask a Question",
+            "shortActionDescription": "Ask a question about Bertoli Olive Oil, its manufacturer, or the retailer."
+        }
+    ]
+},
+{
+    "source": "Claude-3.5-Sonnet",
+    "recommendedActions": [
+        {
+            "actionId": "HealthAlignedSubstitutes",
+            "actionName": "View Keto-Friendly Oil Options",
+            "shortActionDescription": "Discover olive oil alternatives that better align with your keto diet while maintaining quality cooking results."
+        },
+        {
+            "actionId": "BudgetFriendlyAlternatives",
+            "actionName": "Compare Lower-Priced Olive Oils",
+            "shortActionDescription": "Find more affordable olive oil options at Kroger that maintain quality standards for your recipes."
+        },
+        {
+            "actionId": "ViewKetoRecipes",
+            "actionName": "Explore Keto Recipes Using Olive Oil",
+            "shortActionDescription": "Discover keto-friendly recipes using olive oil and items from your shopping list like pork loin and vegetables."
+        },
+        {
+            "actionId": "NutritionalAnalysis",
+            "actionName": "Check Fat Content Details",
+            "shortActionDescription": "Review detailed nutritional information focusing on fat content to align with your low-fat preferences."
+        },
+        {
+            "actionId": "RecipeModification",
+            "actionName": "Modify List Recipes",
+            "shortActionDescription": "Adjust your shopping list recipes to be more keto-friendly while maintaining gluten-free requirements."
+        },
+        {
+            "actionId": "ProductAuthenticity",
+            "actionName": "Verify Olive Oil Quality",
+            "shortActionDescription": "Check authenticity certificates and production details of this Bertolli olive oil."
+        },
+        {
+            "actionId": "PairingsSuggestions",
+            "actionName": "View Keto Pairings",
+            "shortActionDescription": "Discover keto-friendly ingredients that pair well with olive oil in your meal preparation."
+        },
+        {
+            "actionId": "CurrentPromotions",
+            "actionName": "Check Store Deals",
+            "shortActionDescription": "View current promotions at Kroger Dallas for this olive oil and related cooking ingredients."
+        }
+    ]
+}
+]

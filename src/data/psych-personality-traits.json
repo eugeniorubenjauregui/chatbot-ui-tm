@@ -1,0 +1,129 @@
+{
+    "personality_traits": [
+      {
+        "id": "introverted",
+        "name": "Introverted",
+        "description": "Preferring solitary activities and small groups over large gatherings."
+      },
+      {
+        "id": "extroverted",
+        "name": "Extroverted",
+        "description": "Gaining energy from social interactions and being around others."
+      },
+      {
+        "id": "empathetic",
+        "name": "Empathetic",
+        "description": "Understanding and sharing the feelings of others."
+      },
+      {
+        "id": "analytical",
+        "name": "Analytical",
+        "description": "Skilled at breaking down complex problems and logical reasoning."
+      },
+      {
+        "id": "creative",
+        "name": "Creative",
+        "description": "Able to think outside the box and generate original ideas."
+      },
+      {
+        "id": "organized",
+        "name": "Organized",
+        "description": "Maintaining structure and order in tasks and environments."
+      },
+      {
+        "id": "adaptable",
+        "name": "Adaptable",
+        "description": "Flexible and able to adjust to new situations."
+      },
+      {
+        "id": "reliable",
+        "name": "Reliable",
+        "description": "Consistently dependable and trustworthy."
+      },
+      {
+        "id": "confident",
+        "name": "Confident",
+        "description": "Having self-assurance in one's abilities."
+      },
+      {
+        "id": "ambitious",
+        "name": "Ambitious",
+        "description": "Driven to achieve goals and success."
+      },
+      {
+        "id": "curious",
+        "name": "Curious",
+        "description": "Eager to learn and explore new things."
+      },
+      {
+        "id": "patient",
+        "name": "Patient",
+        "description": "Able to tolerate delays or problems without frustration."
+      },
+      {
+        "id": "optimistic",
+        "name": "Optimistic",
+        "description": "Having a positive outlook on future events."
+      },
+      {
+        "id": "pessimistic",
+        "name": "Pessimistic",
+        "description": "Tending to see the worst aspect of things."
+      },
+      {
+        "id": "assertive",
+        "name": "Assertive",
+        "description": "Confidently expressing one's needs and opinions."
+      },
+      {
+        "id": "gentle",
+        "name": "Gentle",
+        "description": "Kind and mild in temperament."
+      },
+      {
+        "id": "stubborn",
+        "name": "Stubborn",
+        "description": "Determined to maintain one's position or opinion."
+      },
+      {
+        "id": "dependable",
+        "name": "Dependable",
+        "description": "Consistently reliable and trustworthy."
+      },
+      {
+        "id": "open-minded",
+        "name": "Open-Minded",
+        "description": "Willing to consider new ideas and perspectives."
+      },
+      {
+        "id": "perfectionist",
+        "name": "Perfectionist",
+        "description": "Striving for flawlessness and setting high performance standards."
+      },
+      {
+        "id": "humorous",
+        "name": "Humorous",
+        "description": "Having or showing a sense of humor."
+      },
+      {
+        "id": "loyal",
+        "name": "Loyal",
+        "description": "Showing consistent support or allegiance."
+      },
+      {
+        "id": "sensitive",
+        "name": "Sensitive",
+        "description": "Easily affected by emotions or feelings."
+      },
+      {
+        "id": "practical",
+        "name": "Practical",
+        "description": "Focused on realistic and functional solutions."
+      },
+      {
+        "id": "decisive",
+        "name": "Decisive",
+        "description": "Able to make decisions quickly and effectively."
+      }
+    ]
+  }

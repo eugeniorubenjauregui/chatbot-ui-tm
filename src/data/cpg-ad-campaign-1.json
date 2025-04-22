@@ -1,0 +1,215 @@
+{
+    "campaign_objectives": {
+      "primary_objective": "Increase sales of 10 canned fruit and vegetable products",
+      "KPIs": ["Sales conversions", "Click-through rate (CTR)", "Return on Ad Spend (ROAS)"]
+    },
+    "target_audience": {
+      "demographics": {
+        "age_range": "25-65",
+        "gender": "All",
+        "income_level": "Middle to High Income",
+        "education": "High School Diploma and above",
+        "occupation": "Working professionals, homemakers"
+      },
+      "geographic_locations": ["United States"],
+      "psychographics": {
+        "interests": ["Healthy Eating", "Cooking", "Family Meals", "Convenience Foods"],
+        "lifestyles": ["Health-conscious", "Family-oriented", "Busy Schedules"]
+      },
+      "devices": ["Mobile", "Desktop", "Tablet"]
+    },
+    "budget_and_scheduling": {
+      "total_campaign_budget": 50000,
+      "daily_spend_limit": 1666.67,
+      "bidding_strategy": "Cost-per-click (CPC)",
+      "campaign_duration": {
+        "start_date": "2023-11-01",
+        "end_date": "2023-11-30"
+      }
+    },
+    "ad_creative_assets": {
+      "visuals": [
+        "images/canned_peaches.jpg",
+        "images/canned_green_beans.jpg",
+        "images/canned_corn.jpg",
+        "images/canned_pineapple.jpg",
+        "images/canned_tomatoes.jpg",
+        "images/canned_carrots.jpg",
+        "images/canned_pears.jpg",
+        "images/canned_spinach.jpg",
+        "images/canned_mixed_fruit.jpg",
+        "images/canned_sweet_potatoes.jpg",
+        "videos/recipe_ideas.mp4"
+      ],
+      "ad_copy": {
+        "headlines": [
+          "Freshness Sealed for You!",
+          "Make Meals Easy with Our Canned Goods"
+        ],
+        "descriptions": [
+          "Discover the convenience of our canned fruits and veggies.",
+          "Healthy eating made simple and affordable."
+        ],
+        "CTA": "Shop Now"
+      },
+      "landing_page_urls": [
+        "https://www.example.com/canned-fruits-vegetables"
+      ],
+      "ad_formats": ["Banner Ads", "Video Ads", "Sponsored Content"]
+    },
+    "product_information": {
+      "product_feed": [
+        {
+          "SKU": "CF001",
+          "name": "Canned Peaches",
+          "description": "Juicy canned peaches in light syrup.",
+          "price": 2.49,
+          "image": "images/canned_peaches.jpg",
+          "inventory_status": "In Stock",
+          "UPC": "012345678901"
+        },
+        {
+          "SKU": "CV001",
+          "name": "Canned Green Beans",
+          "description": "Fresh cut green beans, canned for convenience.",
+          "price": 1.99,
+          "image": "images/canned_green_beans.jpg",
+          "inventory_status": "In Stock",
+          "UPC": "012345678902"
+        },
+        {
+          "SKU": "CV002",
+          "name": "Canned Corn",
+          "description": "Sweet golden corn kernels, perfect for any meal.",
+          "price": 1.89,
+          "image": "images/canned_corn.jpg",
+          "inventory_status": "In Stock",
+          "UPC": "012345678903"
+        },
+        {
+          "SKU": "CF002",
+          "name": "Canned Pineapple",
+          "description": "Tropical pineapple chunks in natural juice.",
+          "price": 2.59,
+          "image": "images/canned_pineapple.jpg",
+          "inventory_status": "In Stock",
+          "UPC": "012345678904"
+        },
+        {
+          "SKU": "CV003",
+          "name": "Canned Tomatoes",
+          "description": "Diced tomatoes for your cooking needs.",
+          "price": 1.79,
+          "image": "images/canned_tomatoes.jpg",
+          "inventory_status": "In Stock",
+          "UPC": "012345678905"
+        },
+        {
+          "SKU": "CV004",
+          "name": "Canned Carrots",
+          "description": "Sliced carrots, ready to serve.",
+          "price": 1.69,
+          "image": "images/canned_carrots.jpg",
+          "inventory_status": "In Stock",
+          "UPC": "012345678906"
+        },
+        {
+          "SKU": "CF003",
+          "name": "Canned Pears",
+          "description": "Sweet canned pears in light syrup.",
+          "price": 2.49,
+          "image": "images/canned_pears.jpg",
+          "inventory_status": "In Stock",
+          "UPC": "012345678907"
+        },
+        {
+          "SKU": "CV005",
+          "name": "Canned Spinach",
+          "description": "Leafy spinach, packed with nutrients.",
+          "price": 1.99,
+          "image": "images/canned_spinach.jpg",
+          "inventory_status": "In Stock",
+          "UPC": "012345678908"
+        },
+        {
+          "SKU": "CF004",
+          "name": "Canned Mixed Fruit",
+          "description": "A delightful mix of your favorite fruits.",
+          "price": 2.69,
+          "image": "images/canned_mixed_fruit.jpg",
+          "inventory_status": "In Stock",
+          "UPC": "012345678909"
+        },
+        {
+          "SKU": "CV006",
+          "name": "Canned Sweet Potatoes",
+          "description": "Tender sweet potatoes in syrup.",
+          "price": 2.29,
+          "image": "images/canned_sweet_potatoes.jpg",
+          "inventory_status": "In Stock",
+          "UPC": "012345678910"
+        }
+      ]
+    },
+    "keyword_and_placement_strategy": {
+      "keywords": [
+        "canned fruits",
+        "canned vegetables",
+        "easy meal prep",
+        "healthy canned food",
+        "quick recipes",
+        "convenience cooking",
+        "affordable healthy meals",
+        "long shelf life foods",
+        "nutritious canned options",
+        "pantry staples"
+      ],
+      "negative_keywords": ["fresh produce", "frozen vegetables"],
+      "preferred_placements": [
+        "Food and Recipe Websites",
+        "Health and Wellness Blogs",
+        "Grocery Shopping Apps"
+      ]
+    },
+    "tracking_and_analytics_setup": {
+      "tracking_pixels": ["<script src='tracking_pixel.js'></script>"],
+      "UTM_parameters": [
+        "utm_source=ad_network&utm_medium=banner&utm_campaign=november_canned_goods"
+      ],
+      "conversion_goals": ["Product Purchase", "Add to Cart", "Newsletter Sign-Up"]
+    },
+    "compliance_and_regulatory_information": {
+      "legal_disclaimers": "Offers valid while supplies last. See website for details.",
+      "privacy_policy_url": "https://www.example.com/privacy-policy",
+      "platform_policies": "Compliant with all ad platform guidelines."
+    },
+    "platform_specific_requirements": {
+      "technical_specifications": {
+        "ad_dimensions": ["300x250", "728x90", "160x600"],
+        "file_sizes": "Max 150KB for images, Max 5MB for videos",
+        "file_formats": ["JPEG", "PNG", "MP4"]
+      },
+      "api_access": "N/A",
+      "catalog_integration": "Product feed uploaded to all retail media networks"
+    },
+    "previous_campaign_data": {
+      "historical_performance_metrics": "N/A (Assuming this is a new campaign)",
+      "ab_test_results": "N/A"
+    },
+    "contact_and_support_information": {
+      "account_manager": {
+        "name": "John Smith",
+        "email": "john.smith@examplecpg.com",
+        "phone": "+1-555-123-4567"
+      },
+      "customer_service": {
+        "email": "support@examplecpg.com",
+        "phone": "+1-555-765-4321"
+      }
+    },
+    "additional_considerations": {
+      "language": "English",
+      "accessibility_compliance": "Ads meet WCAG 2.1 AA standards",
+      "cultural_sensitivity": "Content reviewed for cultural appropriateness across US regions"
+    }
+  }

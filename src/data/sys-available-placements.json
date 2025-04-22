@@ -1,0 +1,202 @@
+{
+	"adPlacements": [
+    {
+        "id": "top-banner",
+        "name": "Top Banner",
+        "description": "Top Banner",
+        "width": "728",
+        "height": "90",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "sidebar",
+        "name": "Sidebar",
+        "description": "Sidebar",
+        "width": "300",
+        "height": "250",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "footer",
+        "name": "Footer",
+        "description": "Footer",
+        "width": "728",
+        "height": "90",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "in-article",
+        "name": "In-Article",
+        "description": "In-Article",
+        "width": "300",
+        "height": "250",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "interstitial",
+        "name": "Interstitial",
+        "description": "Interstitial",
+        "width": "728",
+        "height": "90",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "mobile-banner",
+        "name": "Mobile Banner",
+        "description": "Mobile Banner",
+        "width": "300",
+        "height": "250",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "mobile-interstitial",
+        "name": "Mobile Interstitial",
+        "description": "Mobile Interstitial",
+        "width": "728",
+        "height": "90",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "mobile-footer",
+        "name": "Mobile Footer",
+        "description": "Mobile Footer",
+        "width": "300",
+        "height": "250",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "mobile-in-article",
+        "name": "Mobile In-Article",
+        "description": "Mobile In-Article",
+        "width": "728",
+        "height": "90",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "mobile-sidebar",
+        "name": "Mobile Sidebar",
+        "description": "Mobile Sidebar",
+        "width": "300",
+        "height": "250",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "mobile",
+        "name": "Mobile",
+        "description": "Mobile Ad",
+        "width": "320",
+        "height": "50",
+        "type": "banner",
+        "delectableOnly": false
+    },
+    {
+        "id": "recipe-ingredient",
+        "name": "Recipe Ingredient",
+        "description": "Ad placement inline within the recipe ingredient list",
+        "width": "150",
+        "height": "20",
+        "type": "inline",
+        "delectableOnly": true
+    },
+    {
+        "id": "recipe-sponsorship",
+        "name": "Recipe Sponsorship",
+        "description": "Ad placement to sponsor a specific recipe",
+        "width": "150",
+        "height": "20",
+        "type": "inline",
+        "delectableOnly": true
+    },
+    {
+        "id": "recipe-top-banner",
+        "name": "Recipe Top Banner",
+        "description": "Ad placement at the top of the recipe page",
+        "width": "728",
+        "height": "90",
+        "type": "banner",
+        "delectableOnly": true
+    },
+    {
+        "id": "recipe-bottom-banner",
+        "name": "Recipe Bottom Banner",
+        "description": "Ad placement at the bottom of the recipe page",
+        "width": "728",
+        "height": "90",
+        "type": "banner",
+        "delectableOnly": true
+    },
+    {
+        "id": "suggested-recipe-sponsorship",
+        "name": "Suggested Recipe Sponsorship",
+        "description": "Ad placement for who sponsored the list of 'What can I make with this' suggested recipes",
+        "width": "150",
+        "height": "20",
+        "type": "inline",
+        "delectableOnly": true
+    },
+    {
+        "id": "suggested-recipe-top-banner",
+        "name": "Suggested Recipe Top Banner",
+        "description": "Ad placement at the top of the list of 'What can I make with this' suggested recipes",
+        "width": "728",
+        "height": "90",
+        "type": "banner",
+        "delectableOnly": true
+    },
+    {
+        "id": "suggested-recipe-bottom-banner",
+        "name": "Suggested Recipe Bottom Banner",
+        "description": "Ad placement at the bottom of the list of 'What can I make with this' suggested recipes",
+        "width": "728",
+        "height": "90",
+        "type": "banner",
+        "delectableOnly": true
+    },
+    {
+        "id": "shopping-list-item",
+        "name": "Shopping List Item",
+        "description": "Ad placement within the shopping list where a specific item is listed, but no SKU has yet been selected",
+        "width": "150",
+        "height": "20",
+        "type": "inline",
+        "delectableOnly": true
+    },
+    {
+        "id": "recipe-book-category",
+        "name": "Recipe Book Category",
+        "description": "Ad placement within the recipe book category",
+        "width": "150",
+        "height": "20",
+        "type": "inline",
+        "delectableOnly": true
+    },
+    {
+        "id": "recipe-book-recipe",
+        "name": "Recipe Book Recipe",
+        "description": "Ad placement within the recipe book recipe",
+        "width": "200",
+        "height": "20",
+        "type": "inline",
+        "delectableOnly": true
+    },
+    {
+        "id": "meal-plan-meal-sponsorship",
+        "name": "Meal Plan Meal Sponsorship",
+        "description": "Ad placement for meal plan meal sponsorship",
+        "width": "150",
+        "height": "20",
+        "type": "inline",
+        "delectableOnly": true
+    }
+]
+}

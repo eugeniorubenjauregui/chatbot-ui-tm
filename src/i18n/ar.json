@@ -1,0 +1,46 @@
+{
+  "Type a message...": "اكتب رسالة..."
+  ,"Send": "إرسال"
+  ,"Welcome": "مرحبا"
+  ,"Settings": "الإعدادات"
+  ,"Run Test": "تشغيل الاختبار"
+  ,"Chatbot": "الدردشة"
+  ,"State Data": "بيانات الحالة"
+  ,"Tabs": {
+    "FOR_YOU": "اقتراحات",
+    "SHOPPING_LIST": "قائمة التسوق",
+    "CART": "عربة التسوق",
+    "PANTRY": "المخزن",
+    "RECIPES": "وصفات",
+    "MEAL_PLANS": "خطط الوجبات",
+    "ABOUT_ME": "معلومات عني",
+    "SELECT_A_TAB": "اختر علامة تبويب"
+  }
+  ,"category": {
+    "uncategorized": "غير مصنف"
+    ,"adAlt": "{{categoryName}} إعلان"
+  }
+  ,"common": {
+    "brandLabel": "العلامة التجارية"
+    ,"quantityLabel": "الكمية"
+    ,"sizeLabel": "الحجم"
+    ,"measurementLabel": "القياس"
+    ,"preparationLabel": "التحضير"
+    ,"priceLabel": "السعر"
+    ,"currency": "{{val}}$"
+  },
+  "listItem": {
+    "skuTitle": "المنتجات ذات الصلة"
+    ,"adAlt": "{{productName}} إعلان"
+    ,"menuDetails": "تفاصيل"
+    ,"menuShopSwap": "تسوق / استبدل"
+    ,"menuRemove": "إزالة العنصر"
+}
+  ,"listSummary": {
+    "totalPrice": "السعر الإجمالي"
+    ,"budget": "الميزانية"
+  }
+  ,"product": {
+    "adAlt": "{{productName}} إعلان"
+  }
+}

@@ -1,0 +1,128 @@
+{
+    "psychographic_interests": [
+      {
+        "id": "health-and-fitness",
+        "name": "Health and Fitness",
+        "description": "Interest in maintaining physical well-being through exercise, nutrition, and healthy lifestyle choices."
+      },
+      {
+        "id": "travel-and-exploration",
+        "name": "Travel and Exploration",
+        "description": "Enjoyment of visiting new places, experiencing different cultures, and exploring unfamiliar environments."
+      },
+      {
+        "id": "cooking-and-culinary-arts",
+        "name": "Cooking and Culinary Arts",
+        "description": "Passion for preparing food, experimenting with recipes, and appreciating gastronomy."
+      },
+      {
+        "id": "technology-and-gadgets",
+        "name": "Technology and Gadgets",
+        "description": "Keen interest in the latest technological advancements and electronic devices."
+      },
+      {
+        "id": "music-and-concerts",
+        "name": "Music and Concerts",
+        "description": "Enjoyment of listening to music and attending live performances."
+      },
+      {
+        "id": "movies-and-entertainment",
+        "name": "Movies and Entertainment",
+        "description": "Interest in watching films, series, and staying updated with the entertainment industry."
+      },
+      {
+        "id": "sports-and-outdoor-activities",
+        "name": "Sports and Outdoor Activities",
+        "description": "Participation in or following sports and enjoying activities like hiking, biking, or camping."
+      },
+      {
+        "id": "fashion-and-style",
+        "name": "Fashion and Style",
+        "description": "Interest in clothing trends, personal style, and the fashion industry."
+      },
+      {
+        "id": "art-and-culture",
+        "name": "Art and Culture",
+        "description": "Appreciation for visual arts, theater, museums, and cultural events."
+      },
+      {
+        "id": "reading-and-literature",
+        "name": "Reading and Literature",
+        "description": "Passion for reading books, poetry, and exploring various literary genres."
+      },
+      {
+        "id": "photography",
+        "name": "Photography",
+        "description": "Interest in capturing images, learning photography techniques, and using cameras."
+      },
+      {
+        "id": "gardening-and-horticulture",
+        "name": "Gardening and Horticulture",
+        "description": "Enjoyment of cultivating plants, flowers, and maintaining gardens."
+      },
+      {
+        "id": "diy-and-home-improvement",
+        "name": "DIY and Home Improvement",
+        "description": "Interest in do-it-yourself projects and enhancing living spaces."
+      },
+      {
+        "id": "gaming",
+        "name": "Gaming",
+        "description": "Enthusiasm for video games, board games, and interactive entertainment."
+      },
+      {
+        "id": "environmental-conservation",
+        "name": "Environmental Conservation",
+        "description": "Commitment to protecting the environment and promoting sustainability."
+      },
+      {
+        "id": "social-causes-and-activism",
+        "name": "Social Causes and Activism",
+        "description": "Involvement in societal issues and advocating for change."
+      },
+      {
+        "id": "education-and-learning",
+        "name": "Education and Learning",
+        "description": "Passion for acquiring new knowledge and skills through formal or informal means."
+      },
+      {
+        "id": "financial-planning-and-investment",
+        "name": "Financial Planning and Investment",
+        "description": "Interest in managing finances, investing, and wealth accumulation."
+      },
+      {
+        "id": "spirituality-and-mindfulness",
+        "name": "Spirituality and Mindfulness",
+        "description": "Focus on personal growth, meditation, and exploring spiritual practices."
+      },
+      {
+        "id": "parenting-and-family-activities",
+        "name": "Parenting and Family Activities",
+        "description": "Engagement in family-oriented events and parenting responsibilities."
+      },
+      {
+        "id": "automotive-enthusiasm",
+        "name": "Automotive Enthusiasm",
+        "description": "Interest in cars, motorcycles, and automotive technology."
+      },
+      {
+        "id": "pets-and-animal-care",
+        "name": "Pets and Animal Care",
+        "description": "Passion for owning pets and caring for animals."
+      },
+      {
+        "id": "beauty-and-skincare",
+        "name": "Beauty and Skincare",
+        "description": "Interest in cosmetics, skincare routines, and beauty products."
+      },
+      {
+        "id": "collecting",
+        "name": "Collecting",
+        "description": "Hobby of gathering and organizing items like stamps, coins, or memorabilia."
+      },
+      {
+        "id": "culinary-experiences",
+        "name": "Culinary Experiences",
+        "description": "Enjoyment of gourmet foods, wine tasting, and unique dining experiences."
+      }
+    ] }

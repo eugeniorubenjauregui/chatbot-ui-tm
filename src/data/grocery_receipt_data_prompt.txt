@@ -1,0 +1,35 @@
+I need a component that will show a user their grocery shopping history in a novel and compelling way. It should have the data from my last 10-15 grocery store receipts, but done in much friendlier and visually appealing way that accounts for both what I bought recently as well as what things I buy frequently. Because the data will come from a grocery store receipt, it will have the following fields returned in a JSON object matching the structure below, ensuring each field follows the indicated data types and constraints.
+
+{
+  "store_id": "string (unique store identifier)",
+  "store_name": "string (name of the store)",
+  "date_purchased": "string (ISO 8601 format recommended, e.g. 2025-01-01T12:34:56Z)",
+  "items": [
+    {
+      "item_name": "string (name of the item)",
+      "item_sku": "string (SKU or barcode)",
+      "item_category": "string (e.g. 'Produce', 'Dairy', 'Bakery')",
+      "item_description": "string (short description of the item)",
+      "brand": "string (brand name)",
+      "quantity": "integer (number of units purchased)",
+      "unit_price": "number (regular price of one unit)",
+      "sale_price": "number or null (discounted price of one unit if applicable)",
+      "item_total_price": "number (calculated: quantity × sale_price or unit_price)",
+      "is_item_taxable": "boolean (true if the item is taxable)"
+    }
+  ],
+  "receipt_item_count": "integer (total number of items in the receipt)",
+  "receipt_total_price_for_items": "number (sum of all item_total_price values)",
+  "receipt_tax_amount": "number (calculated sales tax amount)",
+  "receipt_total_with_tax": "number (receipt_total_price_for_items + receipt_tax_amount)",
+  "user_loyalty_id": "string or null (loyalty or rewards program ID)",
+  "payment_method": "string (e.g. 'Credit Card', 'Cash', 'Mobile Payment')"
+}
+
+Please generate 12 receipts where each receipt has between 9 and 30 items from across a typical grocery store. Be sure to include all of the fields, and make the data as realistic as possible.
+
+Now please re-generate the list, only this time, use the following additional rules:
+1. All receipts should be from the same store.
+2. There should be a normal amount of consistency to items that a normal person would buy repeatedly. 
+3. The receipts should be between 3-7 days apart from each other.
+4. The user_loyalty_id value should not vary. Make it "LOY-6007"

@@ -1,0 +1,200 @@
+{
+    "campaign": {
+      "id": "campaign_november_canned_goods",
+      "name": "November Canned Fruits and Vegetables Promotion",
+      "objective": "Increase sales of 10 canned fruit and vegetable products",
+      "start_date": "2023-11-01",
+      "end_date": "2023-11-30",
+      "budget": {
+        "total": 50000,
+        "daily": 1666.67,
+        "currency": "USD"
+      },
+      "bidding_strategy": "Cost-per-click (CPC)",
+      "targeting": {
+        "locations": ["United States"],
+        "languages": ["English"],
+        "devices": ["Mobile", "Desktop", "Tablet"],
+        "demographics": {
+          "age_range": ["25-65"],
+          "gender": "All",
+          "income_level": ["Middle Income", "High Income"],
+          "education": ["High School Diploma", "Bachelor's Degree", "Graduate Degree"],
+          "occupation": ["Working Professionals", "Homemakers"]
+        },
+        "psychographics": {
+          "interests": [
+            "healthy-eating",
+            "cooking-and-culinary-arts",
+            "family-meals",
+            "convenience-cooking"
+          ],
+          "lifestyles": [
+            "health-conscious-lifestyle",
+            "family-oriented-lifestyle",
+            "busy-schedules"
+          ],
+          "values": ["family", "health", "convenience"]
+        },
+        "nutritional_preferences": [
+          "vegetarian-diet",
+          "diabetic-friendly-diet",
+          "low-sodium-diet"
+        ]
+      },
+      "ad_groups": [
+        {
+          "id": "adgroup_canned_fruits",
+          "name": "Canned Fruits",
+          "targeting": {
+            "keywords": [
+              "canned fruits",
+              "fruit in syrup",
+              "canned peaches",
+              "canned pears",
+              "fruit cocktail",
+              "healthy snacks"
+            ],
+            "negative_keywords": ["fresh fruit", "frozen fruit"],
+            "placements": [
+              {
+                "placement_id": "Food and Recipe Websites"
+              },
+              {
+                "placement_id": "Health and Wellness Blogs"
+              },
+              {
+                "placement_id": "Grocery Shopping Apps"
+              },
+              {
+                "placement_id": "homepage_banner",
+                "position": "Homepage Banner",
+                "ad_size": "728x90",
+                "floor_price": 1.00, 
+                "floor_price_currency": "USD",
+                "allowed_ad_formats": ["Banner Ad", "Responsive Ad"]
+              },
+              {
+                "placement_id": "product_page_sidebar",
+                "position": "Product Page Sidebar",
+                "ad_size": "300x250",
+                "floor_price": 0.75,
+                "floor_price_currency": "USD",
+                "allowed_ad_formats": ["Banner Ad"]
+              }
+            ]
+          },
+          "ads": [
+            {
+              "id": "ad_cf001",
+              "format": "Banner Ad",
+              "headline": "Enjoy Freshness Sealed in Every Can!",
+              "description": "Discover our sweet canned peaches, perfect for any dessert.",
+              "image": "images/canned_peaches.jpg",
+              "cta": "Shop Now",
+              "landing_page_url": "https://www.example.com/products/canned-peaches",
+              "ad_group_id": "adgroup_canned_fruits",
+              "bid": 1.50, 
+              "bid_currency": "USD",
+              "bid_type": "CPC",
+              "tracking_params": "utm_source=ad_network&utm_medium=banner&utm_campaign=november_canned_goods",
+              "creative_assets": {
+                "images": ["images/canned_peaches.jpg"],
+                "headlines": ["Enjoy Freshness Sealed in Every Can!"],
+                "descriptions": ["Discover our sweet canned peaches, perfect for any dessert."]
+              }
+            },
+            {
+              "id": "ad_cf002",
+              "format": "Banner Ad",
+              "headline": "Sweeten Your Meals with Canned Pears",
+              "description": "Our canned pears are a delightful addition to any dish.",
+              "image": "images/canned_pears.jpg",
+              "cta": "Buy Now",
+              "landing_page_url": "https://www.example.com/products/canned-pears",
+              "ad_group_id": "adgroup_canned_fruits",
+              "bid": 1.50, 
+              "bid_currency": "USD",
+              "bid_type": "CPC",
+              "tracking_params": "utm_source=ad_network&utm_medium=banner&utm_campaign=november_canned_goods",
+              "creative_assets": {
+                "images": ["images/canned_pears.jpg"],
+                "headlines": ["Sweeten Your Meals with Canned Pears"],
+                "descriptions": ["Our canned pears are a delightful addition to any dish."]
+              }
+            },
+            {
+                "comment":"// Add more ads for each canned fruit product"
+            }
+          ]
+        },
+        {
+          "id": "adgroup_canned_vegetables",
+          "name": "Canned Vegetables",
+          "targeting": {
+            "keywords": [
+              "canned vegetables",
+              "easy meal prep",
+              "canned green beans",
+              "canned corn",
+              "healthy canned food"
+            ],
+            "negative_keywords": ["fresh vegetables", "frozen vegetables"],
+            "placements": [
+              "Cooking Forums",
+              "Family Blogs",
+              "Grocery Store Websites"
+            ]
+          },
+          "ads": [
+            {
+              "id": "ad_cv001",
+              "format": "Banner Ad",
+              "headline": "Make Meals Easy with Our Canned Veggies",
+              "description": "Healthy eating made simple with our canned green beans.",
+              "image": "images/canned_green_beans.jpg",
+              "cta": "Buy Now",
+              "landing_page_url": "https://www.example.com/products/canned-green-beans",
+              "tracking_params": "utm_source=ad_network&utm_medium=banner&utm_campaign=november_canned_goods",
+              "creative_assets": {
+                "images": ["images/canned_green_beans.jpg"],
+                "headlines": ["Make Meals Easy with Our Canned Veggies"],
+                "descriptions": ["Healthy eating made simple with our canned green beans."]
+              }
+            },
+            {
+              "id": "ad_cv002",
+              "format": "Banner Ad",
+              "headline": "Add Sweetness with Canned Corn",
+              "description": "Our canned corn brings natural sweetness to your dishes.",
+              "image": "images/canned_corn.jpg",
+              "cta": "Shop Now",
+              "landing_page_url": "https://www.example.com/products/canned-corn",
+              "tracking_params": "utm_source=ad_network&utm_medium=banner&utm_campaign=november_canned_goods",
+              "creative_assets": {
+                "images": ["images/canned_corn.jpg"],
+                "headlines": ["Add Sweetness with Canned Corn"],
+                "descriptions": ["Our canned corn brings natural sweetness to your dishes."]
+              }
+            }
+            ,{
+                "comment":"// Add more ads for each canned vegetable product"
+            }
+          ]
+        },
+        {
+            "comment":"// Additional ad groups can be added here"
+        }
+      ],
+      "tracking_and_analytics": {
+        "tracking_pixels": ["<script src='tracking_pixel.js'></script>"],
+        "utm_parameters": "utm_source=ad_network&utm_medium=banner&utm_campaign=november_canned_goods",
+        "conversion_goals": ["Product Purchase", "Add to Cart", "Newsletter Sign-Up"]
+      },
+      "compliance_and_regulatory": {
+        "legal_disclaimers": "Offers valid while supplies last. See website for details.",
+        "privacy_policy_url": "https://www.example.com/privacy-policy",
+        "platform_policies": "Compliant with all ad platform guidelines."
+      }
+    }
+  }

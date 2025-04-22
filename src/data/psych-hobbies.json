@@ -1,0 +1,358 @@
+{
+    "hobbies": [
+      {
+        "id": "reading",
+        "name": "Reading",
+        "description": "Enjoying literature and written content across various genres.",
+        "categories": ["Educational", "Relaxation", "Indoor"]
+      },
+      {
+        "id": "writing",
+        "name": "Writing",
+        "description": "Expressing thoughts and stories through written words.",
+        "categories": ["Creative", "Educational", "Indoor"]
+      },
+      {
+        "id": "painting",
+        "name": "Painting",
+        "description": "Creating art using paints on surfaces like canvas or paper.",
+        "categories": ["Creative", "Artistic", "Indoor"]
+      },
+      {
+        "id": "photography",
+        "name": "Photography",
+        "description": "Capturing images using a camera as a form of art or documentation.",
+        "categories": ["Creative", "Artistic", "Outdoor", "Indoor"]
+      },
+      {
+        "id": "gardening",
+        "name": "Gardening",
+        "description": "Cultivating plants, flowers, and vegetables for enjoyment or food.",
+        "categories": ["Outdoor", "Relaxation", "Nature"]
+      },
+      {
+        "id": "cooking",
+        "name": "Cooking",
+        "description": "Preparing food and experimenting with recipes.",
+        "categories": ["Culinary", "Creative", "Indoor"]
+      },
+      {
+        "id": "baking",
+        "name": "Baking",
+        "description": "Making baked goods like bread, pastries, and desserts.",
+        "categories": ["Culinary", "Creative", "Indoor"]
+      },
+      {
+        "id": "hiking",
+        "name": "Hiking",
+        "description": "Walking in natural environments, often on trails or paths.",
+        "categories": ["Outdoor", "Fitness", "Nature"]
+      },
+      {
+        "id": "cycling",
+        "name": "Cycling",
+        "description": "Riding bicycles for recreation, exercise, or transportation.",
+        "categories": ["Outdoor", "Fitness", "Sport"]
+      },
+      {
+        "id": "running",
+        "name": "Running",
+        "description": "Jogging or sprinting as a form of exercise or competition.",
+        "categories": ["Outdoor", "Fitness", "Sport"]
+      },
+      {
+        "id": "knitting",
+        "name": "Knitting",
+        "description": "Creating fabric by interlocking loops of yarn with needles.",
+        "categories": ["Creative", "Crafts", "Indoor"]
+      },
+      {
+        "id": "playing-music",
+        "name": "Playing Music",
+        "description": "Performing music using instruments or voice.",
+        "categories": ["Creative", "Artistic", "Indoor"]
+      },
+      {
+        "id": "singing",
+        "name": "Singing",
+        "description": "Using the voice to produce musical tones and melodies.",
+        "categories": ["Creative", "Artistic", "Indoor"]
+      },
+      {
+        "id": "dancing",
+        "name": "Dancing",
+        "description": "Moving rhythmically to music for enjoyment or performance.",
+        "categories": ["Creative", "Fitness", "Indoor"]
+      },
+      {
+        "id": "traveling",
+        "name": "Traveling",
+        "description": "Visiting different places for leisure, exploration, or culture.",
+        "categories": ["Outdoor", "Adventure", "Cultural"]
+      },
+      {
+        "id": "collecting",
+        "name": "Collecting",
+        "description": "Accumulating items of interest, such as stamps or coins.",
+        "categories": ["Indoor", "Educational", "Relaxation"]
+      },
+      {
+        "id": "gaming",
+        "name": "Gaming",
+        "description": "Playing video games, board games, or other interactive games.",
+        "categories": ["Indoor", "Entertainment", "Social"]
+      },
+      {
+        "id": "fishing",
+        "name": "Fishing",
+        "description": "Catching fish for sport, recreation, or food.",
+        "categories": ["Outdoor", "Relaxation", "Nature"]
+      },
+      {
+        "id": "woodworking",
+        "name": "Woodworking",
+        "description": "Creating objects from wood, including carpentry and carving.",
+        "categories": ["Creative", "Crafts", "Indoor"]
+      },
+      {
+        "id": "photography-editing",
+        "name": "Photography Editing",
+        "description": "Enhancing and modifying photos using software.",
+        "categories": ["Creative", "Technology", "Indoor"]
+      },
+      {
+        "id": "model-building",
+        "name": "Model Building",
+        "description": "Constructing scale models of objects like cars or airplanes.",
+        "categories": ["Creative", "Crafts", "Indoor"]
+      },
+      {
+        "id": "bird-watching",
+        "name": "Bird Watching",
+        "description": "Observing birds in their natural habitats.",
+        "categories": ["Outdoor", "Nature", "Relaxation"]
+      },
+      {
+        "id": "yoga",
+        "name": "Yoga",
+        "description": "Practicing physical postures and breathing exercises for health.",
+        "categories": ["Fitness", "Wellness", "Indoor"]
+      },
+      {
+        "id": "meditation",
+        "name": "Meditation",
+        "description": "Engaging in mental exercises to achieve relaxation or mindfulness.",
+        "categories": ["Wellness", "Relaxation", "Indoor"]
+      },
+      {
+        "id": "martial-arts",
+        "name": "Martial Arts",
+        "description": "Practicing combat and self-defense techniques for sport or discipline.",
+        "categories": ["Fitness", "Sport", "Discipline"]
+      },
+      {
+        "id": "astronomy",
+        "name": "Astronomy",
+        "description": "Studying celestial objects and phenomena.",
+        "categories": ["Educational", "Science", "Outdoor", "Indoor"]
+      },
+      {
+        "id": "scrapbooking",
+        "name": "Scrapbooking",
+        "description": "Creating personalized albums with photos and memorabilia.",
+        "categories": ["Creative", "Crafts", "Indoor"]
+      },
+      {
+        "id": "origami",
+        "name": "Origami",
+        "description": "The art of paper folding to create shapes and figures.",
+        "categories": ["Creative", "Crafts", "Indoor"]
+      },
+      {
+        "id": "calligraphy",
+        "name": "Calligraphy",
+        "description": "The art of decorative handwriting or lettering.",
+        "categories": ["Creative", "Artistic", "Indoor"]
+      },
+      {
+        "id": "pottery",
+        "name": "Pottery",
+        "description": "Shaping clay to create ceramic objects.",
+        "categories": ["Creative", "Crafts", "Indoor"]
+      },
+      {
+        "id": "robotics",
+        "name": "Robotics",
+        "description": "Designing and building robots and automated systems.",
+        "categories": ["Technology", "Educational", "Creative"]
+      },
+      {
+        "id": "genealogy",
+        "name": "Genealogy",
+        "description": "Researching family history and lineage.",
+        "categories": ["Educational", "Indoor", "Historical"]
+      },
+      {
+        "id": "metal-detecting",
+        "name": "Metal Detecting",
+        "description": "Searching for metal objects using a detector.",
+        "categories": ["Outdoor", "Adventure", "Historical"]
+      },
+      {
+        "id": "beekeeping",
+        "name": "Beekeeping",
+        "description": "Maintaining bee colonies for honey and pollination.",
+        "categories": ["Outdoor", "Nature", "Agricultural"]
+      },
+      {
+        "id": "rock-climbing",
+        "name": "Rock Climbing",
+        "description": "Ascending natural rock formations or artificial rock walls.",
+        "categories": ["Outdoor", "Fitness", "Adventure"]
+      },
+      {
+        "id": "kayaking",
+        "name": "Kayaking",
+        "description": "Paddling a kayak on water bodies for sport or leisure.",
+        "categories": ["Outdoor", "Adventure", "Fitness"]
+      },
+      {
+        "id": "scuba-diving",
+        "name": "Scuba Diving",
+        "description": "Underwater diving using scuba equipment.",
+        "categories": ["Outdoor", "Adventure", "Nature"]
+      },
+      {
+        "id": "chess",
+        "name": "Chess",
+        "description": "Strategic board game played between two players.",
+        "categories": ["Indoor", "Educational", "Strategy"]
+      },
+      {
+        "id": "volunteering",
+        "name": "Volunteering",
+        "description": "Offering time and services for community benefit without pay.",
+        "categories": ["Social", "Community", "Indoor", "Outdoor"]
+      },
+      {
+        "id": "language-learning",
+        "name": "Language Learning",
+        "description": "Studying new languages for communication or interest.",
+        "categories": ["Educational", "Cultural", "Indoor"]
+      },
+      {
+        "id": "blogging",
+        "name": "Blogging",
+        "description": "Writing and publishing content online on various topics.",
+        "categories": ["Creative", "Technology", "Indoor"]
+      },
+      {
+        "id": "movie-watching",
+        "name": "Movie Watching",
+        "description": "Enjoying films across different genres.",
+        "categories": ["Entertainment", "Relaxation", "Indoor"]
+      },
+      {
+        "id": "brewing",
+        "name": "Brewing",
+        "description": "Making beer or other fermented beverages at home.",
+        "categories": ["Culinary", "Creative", "Indoor"]
+      },
+      {
+        "id": "magic-tricks",
+        "name": "Magic Tricks",
+        "description": "Performing illusions and tricks for entertainment.",
+        "categories": ["Creative", "Entertainment", "Indoor"]
+      },
+      {
+        "id": "jewelry-making",
+        "name": "Jewelry Making",
+        "description": "Designing and creating decorative ornaments.",
+        "categories": ["Creative", "Crafts", "Indoor"]
+      },
+      {
+        "id": "archery",
+        "name": "Archery",
+        "description": "Shooting arrows with a bow at targets.",
+        "categories": ["Outdoor", "Sport", "Discipline"]
+      },
+      {
+        "id": "geocaching",
+        "name": "Geocaching",
+        "description": "Outdoor treasure hunting using GPS coordinates.",
+        "categories": ["Outdoor", "Adventure", "Technology"]
+      },
+      {
+        "id": "soap-making",
+        "name": "Soap Making",
+        "description": "Crafting handmade soaps using various ingredients.",
+        "categories": ["Creative", "Crafts", "Indoor"]
+      },
+      {
+        "id": "collecting-vinyl-records",
+        "name": "Collecting Vinyl Records",
+        "description": "Accumulating and listening to music on vinyl records.",
+        "categories": ["Indoor", "Entertainment", "Collecting"]
+      },
+      {
+        "id": "callisthenics",
+        "name": "Callisthenics",
+        "description": "Strength training exercises using body weight.",
+        "categories": ["Fitness", "Outdoor", "Indoor"]
+      },
+      {
+        "id": "home-brewing",
+        "name": "Home Brewing",
+        "description": "Making beer or other beverages at home.",
+        "categories": ["Culinary", "Creative", "Indoor"]
+      },
+      {
+        "id": "model-train-building",
+        "name": "Model Train Building",
+        "description": "Constructing and operating miniature train sets.",
+        "categories": ["Creative", "Crafts", "Indoor"]
+      },
+      {
+        "id": "ceramics",
+        "name": "Ceramics",
+        "description": "Creating objects from clay and other raw materials.",
+        "categories": ["Creative", "Artistic", "Indoor"]
+      },
+      {
+        "id": "drone-flying",
+        "name": "Drone Flying",
+        "description": "Operating unmanned aerial vehicles for recreation.",
+        "categories": ["Outdoor", "Technology", "Adventure"]
+      },
+      {
+        "id": "surfing",
+        "name": "Surfing",
+        "description": "Riding waves using a surfboard.",
+        "categories": ["Outdoor", "Sport", "Adventure"]
+      },
+      {
+        "id": "snowboarding",
+        "name": "Snowboarding",
+        "description": "Descending snow-covered slopes on a snowboard.",
+        "categories": ["Outdoor", "Sport", "Adventure"]
+      },
+      {
+        "id": "birdhouse-building",
+        "name": "Birdhouse Building",
+        "description": "Constructing shelters for birds.",
+        "categories": ["Creative", "Crafts", "Outdoor"]
+      },
+      {
+        "id": "wine-tasting",
+        "name": "Wine Tasting",
+        "description": "Sampling and evaluating different wines.",
+        "categories": ["Culinary", "Social", "Indoor"]
+      },
+      {
+        "id": "sewing",
+        "name": "Sewing",
+        "description": "Creating or repairing garments using needle and thread.",
+        "categories": ["Creative", "Crafts", "Indoor"]
+      }
+    ]
+  }

@@ -1,0 +1,73 @@
+{
+    "Type a message...": "Type a message..."
+    ,"Send": "Send"
+    ,"Welcome": "Welcome"
+    ,"Settings": "Settings"
+    ,"Run Test": "Run Test"
+    ,"Chatbot": "Chatbot"
+    ,"State Data": "State Data"
+    ,"Tabs": {
+        "FOR_YOU": "Suggestions"
+        ,"SHOPPING_LIST": "Shopping List"
+        ,"CART": "Cart"
+        ,"PANTRY": "Pantry"
+        ,"RECIPES": "Recipes"
+        ,"MEAL_PLANS": "Meal Plans"
+        ,"ABOUT_ME": "About Me"
+        ,"SELECT_A_TAB": "Select a tab"
+      }
+    ,"category": {
+      "uncategorized": "Uncategorized"
+      ,"adAlt": "{{categoryName}} Ad"
+    }
+    ,"common": {
+      "brandLabel": "Brand"
+      ,"quantityLabel": "Quantity"
+      ,"sizeLabel": "Size"
+      ,"measurementLabel": "Measurement"
+      ,"preparationLabel": "Preparation"
+      ,"priceLabel": "Price"
+      ,"currency": "${{val}}" 
+    }
+    ,"listItem": {
+      "skuTitle": "Related Products"
+      ,"adAlt": "{{productName}} Ad"
+      ,"menuDetails": "Details"
+      ,"menuShopSwap": "Shop / Swap"
+      ,"menuRemove": "Remove Item"
+    }
+    ,"listSummary": {
+      "totalPrice": "Total Price"
+      ,"budget": "Budget"
+    }
+    ,"product": {
+      "adAlt": "{{productName}} Ad"
+    }
+    ,"purchasesHistory": {
+      "headerRange": "Time Range"
+      ,"groupBy": "Group By"
+      ,"summary": "Summary"
+      ,"collapse": "Collapse"
+      ,"expand": "Expand"
+      ,"lastWeek": "Last Week"
+      ,"last2Weeks": "Last 2 Weeks"
+      ,"thisMonth": "This Month"
+      ,"lastMonth": "Last Month"
+      ,"last2Months": "Last 2 Months"
+      ,"last3Months": "Last 3 Months"
+      ,"last4Months": "Last 4 Months"
+      ,"last6Months": "Last 6 Months"
+      ,"groupByCategory": "Group by Category"
+      ,"groupByReceipt": "Group by Receipt"
+      ,"groupByWeek": "Group by Week"
+      ,"totalItems": "Total Items Purchased"
+      ,"totalSpent": "Total Amount Spent"
+      ,"topBrands": "3 Most Popular Brands"
+      ,"topCategories": "3 Most Popular Categories"
+      ,"topItems": "3 Most Popular Items"
+      ,"uncategorized": "Uncategorized"
+      ,"week": "Week"
+      ,"expandAll": "Expand All"
+      ,"collapseAll": "Collapse All"
+      } 
+}

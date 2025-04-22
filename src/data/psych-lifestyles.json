@@ -1,0 +1,129 @@
+{
+    "psychographic_lifestyles": [
+      {
+        "id": "health-conscious-lifestyle",
+        "name": "Health-Conscious Lifestyle",
+        "description": "Prioritizing health through diet, exercise, and wellness practices."
+      },
+      {
+        "id": "eco-friendly/sustainable-living",
+        "name": "Eco-Friendly/Sustainable Living",
+        "description": "Lifestyle focused on reducing environmental impact and promoting sustainability."
+      },
+      {
+        "id": "tech-savvy-lifestyle",
+        "name": "Tech-Savvy Lifestyle",
+        "description": "Embracing technology in daily life and staying updated with tech trends."
+      },
+      {
+        "id": "luxury-or-affluent-lifestyle",
+        "name": "Luxury or Affluent Lifestyle",
+        "description": "Living with high-end products, services, and exclusive experiences."
+      },
+      {
+        "id": "minimalist-lifestyle",
+        "name": "Minimalist Lifestyle",
+        "description": "Simplifying life by reducing possessions and focusing on essentials."
+      },
+      {
+        "id": "adventurous/travel-focused-lifestyle",
+        "name": "Adventurous/Travel-Focused Lifestyle",
+        "description": "Regularly seeking new experiences and exploring different places."
+      },
+      {
+        "id": "family-oriented-lifestyle",
+        "name": "Family-Oriented Lifestyle",
+        "description": "Prioritizing family time and activities centered around loved ones."
+      },
+      {
+        "id": "career-focused-professional",
+        "name": "Career-Focused Professional",
+        "description": "Dedication to professional growth and career advancement."
+      },
+      {
+        "id": "fitness-enthusiast",
+        "name": "Fitness Enthusiast",
+        "description": "Integrating physical activity and fitness into daily routines."
+      },
+      {
+        "id": "social-butterfly/extroverted-lifestyle",
+        "name": "Social Butterfly/Extroverted Lifestyle",
+        "description": "Enjoying social events, networking, and spending time with others."
+      },
+      {
+        "id": "homebody-lifestyle",
+        "name": "Homebody Lifestyle",
+        "description": "Preferring the comfort of home over social outings."
+      },
+      {
+        "id": "artistic-or-creative-lifestyle",
+        "name": "Artistic or Creative Lifestyle",
+        "description": "Engaging in creative pursuits like art, music, or writing."
+      },
+      {
+        "id": "spiritual-or-mindful-living",
+        "name": "Spiritual or Mindful Living",
+        "description": "Focusing on inner peace, meditation, and spiritual growth."
+      },
+      {
+        "id": "fashion-forward-lifestyle",
+        "name": "Fashion-Forward Lifestyle",
+        "description": "Keeping up with the latest fashion trends and styles."
+      },
+      {
+        "id": "diy-or-maker-lifestyle",
+        "name": "DIY or Maker Lifestyle",
+        "description": "Creating and building projects independently."
+      },
+      {
+        "id": "foodie-lifestyle",
+        "name": "Foodie Lifestyle",
+        "description": "Exploring different cuisines and dining experiences."
+      },
+      {
+        "id": "digital-nomad/freelancer-lifestyle",
+        "name": "Digital Nomad/Freelancer Lifestyle",
+        "description": "Working remotely while traveling or living in various locations."
+      },
+      {
+        "id": "frugal-or-budget-conscious-living",
+        "name": "Frugal or Budget-Conscious Living",
+        "description": "Prioritizing saving money and spending wisely."
+      },
+      {
+        "id": "single-and-independent-lifestyle",
+        "name": "Single and Independent Lifestyle",
+        "description": "Emphasizing personal freedom and individual pursuits."
+      },
+      {
+        "id": "retiree-lifestyle",
+        "name": "Retiree Lifestyle",
+        "description": "Enjoying leisure time and activities post-retirement."
+      },
+      {
+        "id": "pet-lover-lifestyle",
+        "name": "Pet-Lover Lifestyle",
+        "description": "Integrating pets into daily life and activities."
+      },
+      {
+        "id": "student-or-academic-lifestyle",
+        "name": "Student or Academic Lifestyle",
+        "description": "Focusing on education and academic pursuits."
+      },
+      {
+        "id": "entrepreneurial-lifestyle",
+        "name": "Entrepreneurial Lifestyle",
+        "description": "Building businesses and pursuing entrepreneurial ventures."
+      },
+      {
+        "id": "urban-city-living",
+        "name": "Urban City Living",
+        "description": "Embracing the fast-paced lifestyle of urban environments."
+      },
+      {
+        "id": "rural-or-country-living",
+        "name": "Rural or Country Living",
+        "description": "Enjoying a slower pace of life in rural settings."
+      }
+    ]
+  }

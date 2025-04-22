@@ -1,0 +1,129 @@
+{
+    "values": [
+      {
+        "id": "honesty",
+        "name": "Honesty",
+        "description": "Being truthful and transparent in actions and words."
+      },
+      {
+        "id": "integrity",
+        "name": "Integrity",
+        "description": "Adhering to moral and ethical principles consistently."
+      },
+      {
+        "id": "respect",
+        "name": "Respect",
+        "description": "Showing consideration and appreciation for others."
+      },
+      {
+        "id": "compassion",
+        "name": "Compassion",
+        "description": "Empathizing with others and showing kindness."
+      },
+      {
+        "id": "responsibility",
+        "name": "Responsibility",
+        "description": "Being accountable for one's actions and obligations."
+      },
+      {
+        "id": "fairness",
+        "name": "Fairness",
+        "description": "Treating others equally and justly."
+      },
+      {
+        "id": "loyalty",
+        "name": "Loyalty",
+        "description": "Being faithful and devoted to people or causes."
+      },
+      {
+        "id": "courage",
+        "name": "Courage",
+        "description": "Facing challenges and fears with determination."
+      },
+      {
+        "id": "perseverance",
+        "name": "Perseverance",
+        "description": "Persisting in efforts despite difficulties."
+      },
+      {
+        "id": "humility",
+        "name": "Humility",
+        "description": "Having a modest view of one's importance."
+      },
+      {
+        "id": "gratitude",
+        "name": "Gratitude",
+        "description": "Appreciating and being thankful for what one has."
+      },
+      {
+        "id": "tolerance",
+        "name": "Tolerance",
+        "description": "Accepting and respecting differences in others."
+      },
+      {
+        "id": "creativity",
+        "name": "Creativity",
+        "description": "Valuing innovation and original ideas."
+      },
+      {
+        "id": "independence",
+        "name": "Independence",
+        "description": "Valuing self-reliance and personal freedom."
+      },
+      {
+        "id": "teamwork",
+        "name": "Teamwork",
+        "description": "Collaborating effectively with others."
+      },
+      {
+        "id": "optimism",
+        "name": "Optimism",
+        "description": "Maintaining a positive outlook on life."
+      },
+      {
+        "id": "justice",
+        "name": "Justice",
+        "description": "Upholding fairness and legal rights."
+      },
+      {
+        "id": "generosity",
+        "name": "Generosity",
+        "description": "Willingness to give time, resources, or support to others."
+      },
+      {
+        "id": "family",
+        "name": "Family",
+        "description": "Prioritizing familial relationships and responsibilities."
+      },
+      {
+        "id": "friendship",
+        "name": "Friendship",
+        "description": "Valuing close relationships with friends."
+      },
+      {
+        "id": "learning",
+        "name": "Learning",
+        "description": "Commitment to gaining knowledge and self-improvement."
+      },
+      {
+        "id": "freedom",
+        "name": "Freedom",
+        "description": "Valuing the ability to act and think independently."
+      },
+      {
+        "id": "peace",
+        "name": "Peace",
+        "description": "Desiring harmony and absence of conflict."
+      },
+      {
+        "id": "patience",
+        "name": "Patience",
+        "description": "Ability to endure difficulties without frustration."
+      },
+      {
+        "id": "environmentalism",
+        "name": "Environmentalism",
+        "description": "Commitment to protecting and preserving the natural world."
+      }
+    ]
+  }

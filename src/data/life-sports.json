@@ -1,0 +1,478 @@
+{
+    "categories": [
+      "Team Sport",
+      "Individual Sport",
+      "Ball Sport",
+      "Racquet Sport",
+      "Water Sport",
+      "Winter Sport",
+      "Combat Sport",
+      "Athletics",
+      "Extreme Sport",
+      "Motor Sport",
+      "Equestrian Sport",
+      "Indoor Sport",
+      "Outdoor Sport",
+      "Olympic Sport",
+      "Precision Sport",
+      "Strength Sport",
+      "Mind Sport"
+    ],
+    "regions": [
+      "Global",
+      "North America",
+      "Europe",
+      "Asia",
+      "South America",
+      "Africa",
+      "Australia",
+      "Caribbean",
+      "Pacific Islands",
+      "Ireland",
+      "New Zealand",
+      "United Kingdom"
+    ],
+    "sports": [
+      {
+        "id": "soccer",
+        "name": "Soccer",
+        "description": "A team sport played between two teams of eleven players with a spherical ball.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "basketball",
+        "name": "Basketball",
+        "description": "A team sport where two teams, usually of five players each, oppose each other on a rectangular court.",
+        "categories": ["Team Sport", "Ball Sport", "Indoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "baseball",
+        "name": "Baseball",
+        "description": "A bat-and-ball game played between two opposing teams who take turns batting and fielding.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport"],
+        "regions": ["North America", "Asia", "Caribbean"]
+      },
+      {
+        "id": "american-football",
+        "name": "American Football",
+        "description": "A team sport played by two teams of eleven players on a rectangular field with goalposts at each end.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport"],
+        "regions": ["North America"]
+      },
+      {
+        "id": "tennis",
+        "name": "Tennis",
+        "description": "A racquet sport that can be played individually against a single opponent or between two teams of two players each.",
+        "categories": ["Individual Sport", "Racquet Sport", "Outdoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "volleyball",
+        "name": "Volleyball",
+        "description": "A team sport in which two teams of six players are separated by a net.",
+        "categories": ["Team Sport", "Ball Sport", "Indoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "cricket",
+        "name": "Cricket",
+        "description": "A bat-and-ball game played between two teams of eleven players on a field.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport"],
+        "regions": ["Asia", "Europe", "Australia", "Africa", "Caribbean"]
+      },
+      {
+        "id": "rugby",
+        "name": "Rugby",
+        "description": "A team sport played with an oval ball that can be kicked, carried, and passed from hand to hand.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport"],
+        "regions": ["Europe", "Australia", "Africa", "Pacific Islands"]
+      },
+      {
+        "id": "ice-hockey",
+        "name": "Ice Hockey",
+        "description": "A contact team sport played on ice, usually in a rink, in which two teams of skaters use sticks to shoot a puck into the opponent's net.",
+        "categories": ["Team Sport", "Winter Sport", "Indoor Sport", "Olympic Sport"],
+        "regions": ["North America", "Europe", "Asia"]
+      },
+      {
+        "id": "field-hockey",
+        "name": "Field Hockey",
+        "description": "A team game of the hockey family played on grass or artificial turf.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport", "Olympic Sport"],
+        "regions": ["Europe", "Asia", "Africa", "Australia"]
+      },
+      {
+        "id": "golf",
+        "name": "Golf",
+        "description": "A club-and-ball sport in which players use various clubs to hit balls into a series of holes on a course in as few strokes as possible.",
+        "categories": ["Individual Sport", "Precision Sport", "Outdoor Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "swimming",
+        "name": "Swimming",
+        "description": "An individual or team racing sport that requires the use of one's entire body to move through water.",
+        "categories": ["Individual Sport", "Water Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "track-and-field",
+        "name": "Track and Field",
+        "description": "A sport which includes athletic contests established on the skills of running, jumping, and throwing.",
+        "categories": ["Individual Sport", "Athletics", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "boxing",
+        "name": "Boxing",
+        "description": "A combat sport in which two people throw punches at each other for a predetermined amount of time in a boxing ring.",
+        "categories": ["Individual Sport", "Combat Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "wrestling",
+        "name": "Wrestling",
+        "description": "A combat sport involving grappling type techniques such as clinch fighting, throws, and takedowns.",
+        "categories": ["Individual Sport", "Combat Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "judo",
+        "name": "Judo",
+        "description": "A modern martial art, combat and Olympic sport created in Japan.",
+        "categories": ["Individual Sport", "Combat Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "karate",
+        "name": "Karate",
+        "description": "A martial art developed in the Ryukyu Kingdom, now an Olympic sport.",
+        "categories": ["Individual Sport", "Combat Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "taekwondo",
+        "name": "Taekwondo",
+        "description": "A Korean martial art characterized by punching and kicking techniques.",
+        "categories": ["Individual Sport", "Combat Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "gymnastics",
+        "name": "Gymnastics",
+        "description": "A sport that includes exercises requiring balance, strength, flexibility, agility, coordination, and endurance.",
+        "categories": ["Individual Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "cycling",
+        "name": "Cycling",
+        "description": "A sport of riding bicycles, including road, track, mountain biking, and BMX.",
+        "categories": ["Individual Sport", "Outdoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "table-tennis",
+        "name": "Table Tennis",
+        "description": "Also known as ping-pong, a sport in which two or four players hit a lightweight ball back and forth across a table using small bats.",
+        "categories": ["Racquet Sport", "Indoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "badminton",
+        "name": "Badminton",
+        "description": "A racquet sport played using racquets to hit a shuttlecock across a net.",
+        "categories": ["Racquet Sport", "Indoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "squash",
+        "name": "Squash",
+        "description": "A racquet sport played by two or four players in a four-walled court with a small, hollow rubber ball.",
+        "categories": ["Racquet Sport", "Indoor Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "rowing",
+        "name": "Rowing",
+        "description": "A sport in which athletes race against each other in boats, using oars.",
+        "categories": ["Team Sport", "Water Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "sailing",
+        "name": "Sailing",
+        "description": "A sport that involves moving a boat by harnessing the power of wind.",
+        "categories": ["Individual Sport", "Water Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "canoeing",
+        "name": "Canoeing",
+        "description": "A paddle sport in which one paddles a canoe with a single-bladed paddle.",
+        "categories": ["Individual Sport", "Water Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "downhill-skiing",
+        "name": "Downhill Skiing",
+        "description": "A winter sport where athletes slide down snow-covered hills on skis with fixed-heel bindings.",
+        "categories": ["Individual Sport", "Winter Sport", "Outdoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "cross-country-skiing",
+        "name": "Cross-Country Skiing",
+        "description": "A form of skiing where participants propel themselves across snow-covered terrain using skis and poles.",
+        "categories": ["Individual Sport", "Winter Sport", "Outdoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "ski-jumping",
+        "name": "Ski Jumping",
+        "description": "A winter sport where competitors aim to achieve the longest jump after descending from a specially designed ramp.",
+        "categories": ["Individual Sport", "Winter Sport", "Outdoor Sport", "Olympic Sport"],
+        "regions": ["Europe", "Asia", "North America"]
+      },
+      {
+        "id": "water-skiing",
+        "name": "Water Skiing",
+        "description": "A surface water sport where an individual is pulled behind a boat or cable ski installation over a body of water.",
+        "categories": ["Individual Sport", "Water Sport", "Outdoor Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "snowboarding",
+        "name": "Snowboarding",
+        "description": "A winter sport that involves descending a slope covered with snow while standing on a snowboard.",
+        "categories": ["Individual Sport", "Winter Sport", "Outdoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "surfing",
+        "name": "Surfing",
+        "description": "A surface water sport in which the wave rider rides on the forward face of a moving wave.",
+        "categories": ["Individual Sport", "Water Sport", "Extreme Sport"],
+        "regions": ["Global", "Australia", "North America", "Asia"]
+      },
+      {
+        "id": "skateboarding",
+        "name": "Skateboarding",
+        "description": "An action sport which involves riding and performing tricks using a skateboard.",
+        "categories": ["Individual Sport", "Extreme Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "climbing",
+        "name": "Climbing",
+        "description": "The activity of using one's hands, feet, or any other part of the body to ascend a steep object.",
+        "categories": ["Individual Sport", "Extreme Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "equestrian",
+        "name": "Equestrian",
+        "description": "Sports that involve horse riding, including dressage, show jumping, and eventing.",
+        "categories": ["Individual Sport", "Equestrian Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "shooting",
+        "name": "Shooting",
+        "description": "A sport involving tests of proficiency using various types of guns.",
+        "categories": ["Individual Sport", "Precision Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "archery",
+        "name": "Archery",
+        "description": "The sport of using a bow to shoot arrows.",
+        "categories": ["Individual Sport", "Precision Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "fencing",
+        "name": "Fencing",
+        "description": "A group of three related combat sports using bladed weapons.",
+        "categories": ["Individual Sport", "Combat Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "weightlifting",
+        "name": "Weightlifting",
+        "description": "An athletic discipline in which participants attempt a maximum-weight single lift of a barbell loaded with weight plates.",
+        "categories": ["Individual Sport", "Strength Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "triathlon",
+        "name": "Triathlon",
+        "description": "A multisport race with three continuous and sequential endurance races, usually swimming, cycling, and running.",
+        "categories": ["Individual Sport", "Outdoor Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "stock-car-racing",
+        "name": "Stock Car Racing",
+        "description": "A form of automobile racing found mainly in the United States and Canada, using production-based cars.",
+        "categories": ["Individual Sport", "Motor Sport", "Outdoor Sport"],
+        "regions": ["North America"]
+      },
+      {
+        "id": "formula-one-racing",
+        "name": "Formula One Racing",
+        "description": "The highest class of international single-seater auto racing sanctioned by the FIA.",
+        "categories": ["Individual Sport", "Motor Sport", "Outdoor Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "motocross-racing",
+        "name": "Motocross Racing",
+        "description": "An off-road motorcycle racing held on enclosed off-road circuits.",
+        "categories": ["Individual Sport", "Motor Sport", "Outdoor Sport", "Extreme Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "motorcycle-racing",
+        "name": "Motorcycle Racing",
+        "description": "A sport involving racing motorcycles, including road racing, off-road racing, and track racing.",
+        "categories": ["Individual Sport", "Motor Sport", "Outdoor Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "horse-racing",
+        "name": "Horse Racing",
+        "description": "An equestrian performance sport involving two or more horses ridden by jockeys over a set distance.",
+        "categories": ["Individual Sport", "Equestrian Sport", "Outdoor Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "lacrosse",
+        "name": "Lacrosse",
+        "description": "A team sport played with a lacrosse stick and a lacrosse ball.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport"],
+        "regions": ["North America", "Europe", "Australia"]
+      },
+      {
+        "id": "netball",
+        "name": "Netball",
+        "description": "A ball sport played by two teams of seven players, predominantly played by women.",
+        "categories": ["Team Sport", "Ball Sport", "Indoor Sport"],
+        "regions": ["Australia", "New Zealand", "United Kingdom", "Caribbean"]
+      },
+      {
+        "id": "handball",
+        "name": "Handball",
+        "description": "A team sport in which two teams of seven players each pass a ball to throw it into the goal of the other team.",
+        "categories": ["Team Sport", "Ball Sport", "Indoor Sport", "Olympic Sport"],
+        "regions": ["Europe", "Asia", "Africa"]
+      },
+      {
+        "id": "water-polo",
+        "name": "Water Polo",
+        "description": "A competitive team sport played in water between two teams of seven players.",
+        "categories": ["Team Sport", "Water Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "diving",
+        "name": "Diving",
+        "description": "The sport of jumping or falling into water from a platform or springboard.",
+        "categories": ["Individual Sport", "Water Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "figure-skating",
+        "name": "Figure Skating",
+        "description": "A sport in which individuals, duos, or groups perform on figure skates on ice.",
+        "categories": ["Individual Sport", "Winter Sport", "Olympic Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "curling",
+        "name": "Curling",
+        "description": "A sport in which players slide stones on a sheet of ice towards a target area segmented into four concentric circles.",
+        "categories": ["Team Sport", "Winter Sport", "Olympic Sport"],
+        "regions": ["North America", "Europe"]
+      },
+      {
+        "id": "pickleball",
+        "name": "Pickleball",
+        "description": "A paddleball sport that combines elements of badminton, table tennis, and tennis.",
+        "categories": ["Racquet Sport", "Indoor Sport", "Outdoor Sport"],
+        "regions": ["North America", "Australia", "Europe"]
+      },
+      {
+        "id": "ultimate-frisbee",
+        "name": "Ultimate Frisbee",
+        "description": "A non-contact team sport played with a flying disc.",
+        "categories": ["Team Sport", "Outdoor Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "kabaddi",
+        "name": "Kabaddi",
+        "description": "A contact team sport played between two teams of seven players each originating from the Indian subcontinent.",
+        "categories": ["Team Sport", "Combat Sport", "Outdoor Sport"],
+        "regions": ["Asia"]
+      },
+      {
+        "id": "sepak-takraw",
+        "name": "Sepak Takraw",
+        "description": "A sport native to Southeast Asia, resembling volleyball but played with feet and a rattan ball.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport"],
+        "regions": ["Asia"]
+      },
+      {
+        "id": "australian-rules-football",
+        "name": "Australian Rules Football",
+        "description": "A contact sport played between two teams of eighteen players on an oval-shaped field.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport"],
+        "regions": ["Australia"]
+      },
+      {
+        "id": "hurling",
+        "name": "Hurling",
+        "description": "An outdoor team game of ancient Gaelic Irish origin, played with sticks and a ball.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport"],
+        "regions": ["Ireland"]
+      },
+      {
+        "id": "gaelic-football",
+        "name": "Gaelic Football",
+        "description": "An Irish team sport, combining the skills of soccer and rugby.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport"],
+        "regions": ["Ireland"]
+      },
+      {
+        "id": "polo",
+        "name": "Polo",
+        "description": "A horseback mounted team sport, with the objective to score goals against an opposing team.",
+        "categories": ["Team Sport", "Equestrian Sport", "Outdoor Sport"],
+        "regions": ["Global"]
+      },
+      {
+        "id": "floorball",
+        "name": "Floorball",
+        "description": "An indoor team sport, a type of floor hockey with five field players and a goalkeeper.",
+        "categories": ["Team Sport", "Indoor Sport", "Ball Sport"],
+        "regions": ["Europe", "Asia", "North America"]
+      },
+      {
+        "id": "softball",
+        "name": "Softball",
+        "description": "A variant of baseball played with a larger ball on a smaller field.",
+        "categories": ["Team Sport", "Ball Sport", "Outdoor Sport"],
+        "regions": ["North America", "Asia", "Europe"]
+      },
+      {
+        "id": "mma",
+        "name": "Mixed Martial Arts",
+        "description": "A full-contact combat sport that allows striking and grappling.",
+        "categories": ["Individual Sport", "Combat Sport"],
+        "regions": ["Global"]
+      }
+    ]
+  }

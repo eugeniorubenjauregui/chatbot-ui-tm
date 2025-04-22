@@ -1,0 +1,46 @@
+{
+    "Type a message...": "הקלד הודעה..."
+    ,"Send": "שלח"
+    ,"Welcome": "ברוך הבא"
+    ,"Settings": "הגדרות"
+    ,"Run Test": "הרץ בדיקה"
+    ,"Chatbot": "צ'אטבוט"
+    ,"State Data": "נתוני מצב"
+    ,"Tabs": {
+      "FOR_YOU": "הצעות"
+      ,"SHOPPING_LIST": "רשימת קניות"
+      ,"CART": "עגלה"
+      ,"PANTRY": "מזוודה"
+      ,"RECIPES": "מתכונים"
+      ,"MEAL_PLANS": "תוכניות ארוחות"
+      ,"ABOUT_ME": "אודותיי"
+      ,"SELECT_A_TAB": "בחר כרטיסייה"
+    }
+    ,"category": {
+      "uncategorized": "לא מסווג"
+      ,"adAlt": "{{categoryName}} מודעה"
+    }
+    ,"common": {
+      "brandLabel": "מותג"
+      ,"quantityLabel": "כמות"
+      ,"sizeLabel": "גודל"
+      ,"measurementLabel": "מדידה"
+      ,"preparationLabel": "הכנה"
+      ,"priceLabel": "מחיר"
+      ,"currency": "{{val}}$"
+    },
+    "listItem": {
+      "skuTitle": "מוצרים קשורים"
+      ,"adAlt": "{{productName}} מודעה"
+      ,"menuDetails": "פרטים"
+      ,"menuShopSwap": "קנה / החלף"
+      ,"menuRemove": "הסר פריט"
+    }
+    ,"listSummary": {
+      "totalPrice": "מחיר כולל"
+      ,"budget": "תקציב"
+    }
+    ,"product": {
+      "adAlt": "{{productName}} מודעה"
+    }
+}
