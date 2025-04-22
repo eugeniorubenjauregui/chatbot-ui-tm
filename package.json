@@ -1,0 +1,59 @@
+{
+  "name": "chatbot-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@react-aria/button": "^3.10.1",
+    "@react-aria/dialog": "^3.5.19",
+    "@react-aria/menu": "^3.15.5",
+    "@react-aria/tabs": "^3.9.7",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "dayjs": "^1.11.13",
+    "i18next": "^23.16.4",
+    "i18next-browser-languagedetector": "^8.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-helmet-async": "^2.0.5",
+    "react-i18next": "^15.1.0",
+    "react-icons": "^5.3.0",
+    "react-intersection-observer": "^9.13.1",
+    "react-rating": "^2.0.5",
+    "react-scripts": "^5.0.1",
+    "react-swipeable": "^7.0.1",
+    "react-textarea-autosize": "^8.5.4",
+    "styled-components": "^6.1.13",
+    "uuid": "^11.0.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "build:widget": "parcel build src/index.js --no-source-maps"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "parcel": "^2.14.1"
+  }
+}
